@@ -1,6 +1,6 @@
 # DachaGram (AyuGram) for Android
 
-![DachaGram Logo](.github/DachaGram.png)
+![DachaGram Logo](.github/DachaGram-logo.png)
 
 ## What's this fork even about?
 
